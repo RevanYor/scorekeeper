@@ -1,3 +1,5 @@
+//Could refoctor all of this by using 2 objects!
+
 const p1Button = document.querySelector('#p1button');
 const p2Button = document.querySelector('#p2button');
 const p1Display = document.querySelector('#p1Display');
